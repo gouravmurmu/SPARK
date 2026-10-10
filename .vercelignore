@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.vercel
+.env*
+AGENTS.md
+writing-block (1).md
+*.tsbuildinfo
